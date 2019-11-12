@@ -9,7 +9,7 @@
 <blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-01?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gtargino/gostack-challenge-crud?color=%2304D361">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
@@ -65,6 +65,4 @@ Se eu chamar a rota `POST /projects` repassando `{ id: 1, title: 'Novo projeto' 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-Desenvolvido por Gustavo Targino
-Aluno Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
+Desenvolvido por Gustavo Targino - Aluno Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
